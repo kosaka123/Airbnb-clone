@@ -1,0 +1,4 @@
+pk.eyJ1Ijoib25na2ltIiwiYSI6ImNrczVwcDhuZzBqazIyeG14Ymt4ZDhsN3AifQ.Xx88vHGtLTharcUc9Fcu1g
+
+style url:mapbox://styles/ongkim/cks5ptxpd60mx17p63ip78saz
+access token :pk.eyJ1Ijoib25na2ltIiwiYSI6ImNrczVwcDhuZzBqazIyeG14Ymt4ZDhsN3AifQ.Xx88vHGtLTharcUc9Fcu1g
